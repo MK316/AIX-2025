@@ -4,7 +4,7 @@
 
 ---
 
-## [1. 전공 재분류: Multimodality 기반 5대 범주](https://github.com/MK316/AIX-2025/blob/main/01_Category.md)
+## [1. 전공 재분류: Multimodality 기반 6대 범주](https://github.com/MK316/AIX-2025/blob/main/01_Category.md)
 
 | 분류 | 포함 전공 |
 |------|-----------|
