@@ -1,5 +1,4 @@
-# 1. 사범대 전공 재분류: 
-Multimodality 기반과 Input–Output 모델리티 기반의 이중 구조 비교
+# 1. 사범대 전공 재분류: Multimodality 기반 vs. Input–Output 모델리티 기반
 
 본 문서는 사범대 AI 리터러시 교육 설계를 위한 전공 재분류 기준을  
 1) **Multimodal 기반 분류**와  
