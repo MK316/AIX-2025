@@ -2,6 +2,7 @@
 (2025. 12. 8 MK 작성)   
 AI 시대 미래교사 핵심 역량 강화 교양 과목(2학점 2개)의 목적과 구성 개요를 정리한 문서임.  
 
+![Flow](https://github.com/MK316/AIX-2025/raw/main/Subject-flow01.png)
 
 
 ## 1. 배경
