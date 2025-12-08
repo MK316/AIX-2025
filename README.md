@@ -35,8 +35,7 @@
 
 ---
 
-### 3.1 멀티모달 AI 이해 및 정보 처리(MAI)  
-**Multimodal AI Integration (2학점)**
+### 3.1 멀티모달 AI 이해 및 정보 처리(Multimodal AI Integration; 2학점)
 
 #### 개설 사유
 - AI·멀티모달 정보 환경에서 교사에게 요구되는 정보 해석 역량 강화  
@@ -58,8 +57,7 @@
 
 ---
 
-### 3.2 디지털 학습 경험 디자인(DLX)  
-**Digital Learning Experience (2학점)**
+### 3.2 디지털 학습 경험 디자인(Digital Learning Experience; 2학점)
 
 #### 개설 사유
 - 미래교실에서 요구되는 학습자 중심 설계 능력 강화  
