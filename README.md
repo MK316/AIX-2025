@@ -22,7 +22,7 @@ AI 시대 미래교사 핵심 역량 강화 교양 과목(2학점 2개)의 목�
 | 구분 | 과목명 | 영문명 | 학점 | 핵심 기능 |
 |------|--------|---------|--------|------------------------------|
 | 1| 멀티모달 AI 이해 및 활용 | Multimodal AI Integration (MAI) | 2학점 | 멀티모달 정보 이해·질문·해석·판단 |
-| 2| 디지털 학습 경험 디자인 | Digital Learning Experience (DLX) | 2학점 | AI·디지털 기반 학습경험 설계·구현 |
+| 2| 디지털 학습 경험 설계 | Digital Learning Experience (DLX) | 2학점 | AI·디지털 기반 학습경험 설계·구현 |
 
 
 
@@ -56,7 +56,7 @@ AI·디지털 기반 교육 환경에서는 교사가 다양한 형태의 멀티
 
 
 
-## [2] 디지털 학습 경험 디자인(Digital Learning Experience: DLX, 2학점)
+## [2] 디지털 학습 경험 설계(Digital Learning Experience: DLX, 2학점)
 
 ### 🔵 개설 사유
 
