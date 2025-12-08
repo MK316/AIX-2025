@@ -33,7 +33,7 @@
 
 ## 3. 과목 상세
 
----
+
 
 ### 3.1 멀티모달 AI 이해 및 정보 처리(Multimodal AI Integration; 2학점)
 ## 개설 사유
