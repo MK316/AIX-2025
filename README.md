@@ -35,7 +35,7 @@
 
 ---
 
-### 3.1 MAI — 멀티모달 AI 이해 및 정보 처리  
+### 3.1 멀티모달 AI 이해 및 정보 처리(MAI)  
 **Multimodal AI Integration (2학점)**
 
 #### 개설 사유
@@ -58,7 +58,7 @@
 
 ---
 
-### 3.2 DLX — 디지털 학습 경험 디자인  
+### 3.2 디지털 학습 경험 디자인(DLX)  
 **Digital Learning Experience (2학점)**
 
 #### 개설 사유
