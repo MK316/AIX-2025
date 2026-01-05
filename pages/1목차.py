@@ -20,7 +20,6 @@ TOC = [
     "참고문헌",
 ]
 
-st.markdown("### 📑 목차")
 
 for item in TOC:
     st.markdown(f"{item}")
