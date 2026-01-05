@@ -23,7 +23,7 @@ TOC = [
 st.markdown("### 📑 목차")
 
 for item in TOC:
-    st.markdown(f"- {item}")
+    st.markdown(f"{item}")
 
 st.markdown("---")
 st.caption("※ 범례: 굵은체 = 수정사항, 붉은색 = 새로 추가한 내용")
