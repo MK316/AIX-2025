@@ -40,6 +40,9 @@ UNESCO(2024)는 「AI Competency Framework for Teachers」를 통해 교사에�
 
 이와 같은 환경 변화 속에서 교원양성기관은 단순한 임용시험 준비 기관을 넘어, AI 시대에 적합한 융합형 인재를 양성하는 미래지향적 교육기관으로의 전환이 요구된다.
 
+<img width="468" height="35" alt="image" src="https://github.com/user-attachments/assets/c626cf35-b2de-4d22-958d-4afa3fc31c91" />
+
+
 #### 라. 사범대학 차원의 대응 필요성
 
 경상국립대학교 사범대학은 「장기발전계획 Vision 2030+」를 통해 敎學相長(교학상장)의 교육이념 아래 C3형 교사상(Committed Educator, Creative Pioneer, Curious Expert)을 인재상으로 설정하고 있다. 이러한 인재상을 AI 시대에 맞게 구현하기 위해서는 예비교사가 AI 기술을 비판적으로 이해하고 교육 현장에 적용할 수 있는 체계적인 교육과정이 필요하다.
