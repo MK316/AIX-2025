@@ -10,17 +10,16 @@ BASE = "https://github.com/MK316/AIX-2025/blob/main/pages/"
 
 # ✅ 2) 섹션별 md 파일 경로 (레포 안의 상대 경로로 수정)
 FILES = {
-    "Ⅰ. 서론": "01_intro.md",
-    "Ⅱ. 환경 분석": "02_environment.md",
-    "Ⅲ. 요구분석": "03_needs.md",
-    "Ⅳ. 국내외 대학 AI 교육과정 사례 분석": "04_cases.md",
-    "Ⅴ. 교육목표 및 전공역량 설정": "05_goals_competencies.md",
-    "Ⅵ. 전공교육과정 역량체계 구성": "06_framework.md",
-    "Ⅶ. 단계별 교육과정 구조 및 교과목 실라버스": "07_structure_syllabus.md",
-    "Ⅷ. 교육과정 로드맵": "08_roadmap.md",
-    "Ⅸ. 결론": "09_conclusion.md",
-    "참고문헌": "10_references.md",
-    "부록": "11_appendix.md",
+    "Ⅰ. 서론": "section01.md",
+    "Ⅱ. 환경 분석": "section02.md",
+    "Ⅲ. 요구분석": "section03.md",
+    "Ⅳ. 국내외 대학 AI 교육과정 사례 분석": "section04.md",
+    "Ⅴ. 교육목표 및 전공역량 설정": "section05.md",
+    "Ⅵ. 전공교육과정 역량체계 구성": "section06.md",
+    "Ⅶ. 단계별 교육과정 구조 및 교과목 실라버스": "section07.md",
+    "Ⅷ. 교육과정 로드맵": "section08.md",
+    "Ⅸ. 결론": "section09.md",
+    "참고문헌": "references.md",
 }
 
 # ---------------------------
