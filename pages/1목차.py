@@ -5,7 +5,8 @@ st.set_page_config(page_title="보고서 목차", layout="wide")
 st.title("목  차")
 
 # ✅ 1) GitHub 레포/브랜치 기본 주소 (본인 것으로 수정)
-BASE = "https://github.com/<USERNAME>/<REPO>/blob/<BRANCH>/"
+BASE = "https://github.com/MK316/AIX-2025/blob/main/pages/"
+
 
 # ✅ 2) 섹션별 md 파일 경로 (레포 안의 상대 경로로 수정)
 FILES = {
