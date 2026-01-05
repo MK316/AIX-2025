@@ -26,7 +26,7 @@
 <img width="468" height="52" alt="image" src="https://github.com/user-attachments/assets/a0d1a5cc-c96a-4db9-83aa-2f04a80c5521" />
 
 
-사범대학 재학생 20명(G1-1~10, G2-1~10)을 대상으로 FGI(Focus Group Interview)를 실시하였다. FGI는 총 2회에 걸쳐 진행되었으며, 회차별로 10명씩 참여하였다.
+사범대학 재학생 20명(G1-1 ~ G-10, G2-1 ~ G-10)을 대상으로 FGI(Focus Group Interview)를 실시하였다. FGI는 총 2회에 걸쳐 진행되었으며, 회차별로 10명씩 참여하였다.
 
 참여 학생들은 국어교육과, 영어교육과, 수학교육과, 체육교육과, 미술교육과 등 다양한 학과에서 고르게 선발되어, 학과별 특성을 반영한 의견 수렴이 가능하도록 구성되었다.
 
