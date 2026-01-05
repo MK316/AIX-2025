@@ -38,8 +38,6 @@ def fetch_md(url: str) -> str:
 
 md_url = RAW_BASE + SECTIONS[selected]
 
-st.title(selected)
-
 try:
     md_text = fetch_md(md_url)
     st.markdown(md_text, unsafe_allow_html=True)
